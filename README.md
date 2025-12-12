@@ -15,17 +15,19 @@
 
 ---
 
-### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,matplotlib,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,matplotlib,streamlit,github,git,vscode" />
+  <img src="https://img.shields.io/badge/Tableau-1f1f1f?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hibaansari12&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hibaansari12&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hibaansari12&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hibaansari12&theme=tokyonight" />
 </p>
 
 ---
@@ -33,6 +35,8 @@
 ### 💡 Current Projects 
 - 📈 **SQL Query Exercises** and database exploration  
 - 🤖 **Learning Machine Learning Fundamentals**
+- 📊 Tableau Dashboards  
+   
 
 ---
 
