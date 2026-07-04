@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-- 📚 2nd Year **Data Science Student**
+- 📚 3rd Year **Data Science Student**
 - 💼 Currently interning at **Front Ford Career Institute**
 - 💻 Learning **Python**, **SQL**, and **data visualization tools**
 - 📊 Passionate about transforming raw data into actionable insights
